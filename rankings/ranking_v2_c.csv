@@ -1,0 +1,438 @@
+year,institution,csranking,ranking
+2020,University of Sydney,86,60
+2020,Scuola Normale Superiore,481,152
+2020,Itemis AG,-1,-1
+2020,INSA de Lyon,481,1397
+2020,Eindhoven University of Technology,205,185
+2020,Chinese Academy of Sciences,59,1397
+2020,General Motors,-1,-1
+2020,Moscow Institute of Physics and Technology,481,234
+2020,University of Arizona,172,103
+2020,Boston University,67,61
+2020,Estsoft,-1,-1
+2020,Télécom Paris,481,187
+2020,Kyung Hee,481,319
+2020,Alfréd Rényi Institute of Mathematics,-1,-1
+2020,Walmart,-1,-1
+2020,"University of California, Irvine",35,96
+2020,University of British Columbia,35,34
+2020,Goethe University,233,305
+2020,CISPA Helmholtz Center for Information Security,143,1397
+2020,"Ecole Polytechnique, France",481,93
+2020,STATS Perform,-1,-1
+2020,Johannes Kepler University Linz,481,620
+2020,Radboud University Medical Center,390,128
+2020,UiT The Arctic University of Norway,-1,419
+2020,Victorzhong,-1,-1
+2020,University of California Berkeley,5,13
+2020,Ecole Normale Superieure,100,45
+2020,Bocconi University,323,1397
+2020,Paris Diderot University,481,1397
+2020,Alibaba Group and Ant Financial Services Group,-1,-1
+2020,Antfin,-1,-1
+2020,Megvii Technology Inc.,-1,-1
+2020,University of Chinese Academy of Sciences,59,1397
+2020,Millenium Instititute for Foundational Research on Data,-1,-1
+2020,Africa Nazarene University,481,1397
+2020,Johns Hopkins University,73,12
+2020,Universitat Politècnica de Catalunya,266,612
+2020,Academia Sinica,-1,-1
+2020,German Research Center for AI,-1,-1
+2020,Hikvision Research Institute,-1,-1
+2020,Telefonica Research,-1,-1
+2020,Xerox,-1,-1
+2020,International Institute of Information Technology Hyderabad,205,713
+2020,Pazmany Peter catholic University,481,1397
+2020,Xidian University,481,919
+2020,Kuaishou,-1,-1
+2020,University of Freiburg,118,85
+2020,OpenAI,-1,-1
+2020,Huan-zhang,-1,-1
+2020,National Technical University of Athens,323,776
+2020,eBay,-1,-1
+2020,"University of Nevada, Reno",266,1397
+2020,"Institute for Infocomm Research, A*STAR",-1,-1
+2020,Stevens Institute of Technology,154,605
+2020,University of Belgrade,481,1397
+2020,University of Connecticut,154,393
+2020,Sony Europe Ltd.,-1,-1
+2020,Walmartlabs,-1,-1
+2020,"State University of New York, Albany",266,350
+2020,"Jilin University, China",481,952
+2020,"University of Illinois, Urbana Champaign",3,48
+2020,ITMO University,481,480
+2020,Bar Ilan University,95,513
+2020,Univeristé Paris-Dauphine,481,1397
+2020,University of California - Irvine,35,96
+2020,TU Wien Vienna University of Technology,100,360
+2020,Vrije Universiteit Brussel,481,235
+2020,Baidu,-1,-1
+2020,"Department of Computer Science and Engineering, The Chinese University of Hong Kong",59,35
+2020,Texas A&M,44,177
+2020,Mitsubishi Electric Research Labs,-1,-1
+2020,AITRICS,-1,-1
+2020,Ronin Institute,-1,-1
+2020,MakinaRocks,-1,-1
+2020,Queens University,266,258
+2020,Snap Inc.,-1,-1
+2020,"Nuro, Inc",-1,-1
+2020,ETIS,-1,-1
+2020,Swisscom,-1,-1
+2020,"Computer Science Lab  - Pierre and Marie Curie University, Paris, France",481,1397
+2020,Icentia Inc.,-1,-1
+2020,Fraunhofer IIS,-1,-1
+2020,Saarland University,92,1397
+2020,Université Paris-Est,481,1397
+2020,University of Tartu,266,319
+2020,The Chinese University of Hong Kong,59,35
+2020,Hulu LLC.,-1,-1
+2020,Karlsruhe Institute of Technology,154,174
+2020,University of Ottawa,266,141
+2020,Lawrence Berkeley National Lab,-1,-1
+2020,Stanford University,4,4
+2020,Virginia Commonwealth University,266,1397
+2020,Linköping University,481,407
+2020,Gmai,-1,-1
+2020,USC/ISI,-1,-1
+2020,Horizon Robotics,-1,-1
+2020,VISA,-1,-1
+2020,University of Edinburgh,33,30
+2020,Arizona State University,95,155
+2020,Vrije Universiteit Amsterdam,172,138
+2020,Virginia Tech,79,240
+2020,University of Otago,390,218
+2020,D-Wave Systems,-1,-1
+2020,North Carolina State University,86,310
+2020,Borealis AI,-1,-1
+2020,Liamcli,-1,-1
+2020,Facebook AI Research,-1,-1
+2020,University of New Hampshire,266,1397
+2020,SUN YAT-SEN UNIVERSITY,481,299
+2020,University of Kassel,390,94
+2020,Istituto Italiano di Tecnologia,481,1397
+2020,Kakao,-1,-1
+2020,NEC-Labs,-1,-1
+2020,Bytedance,-1,-1
+2020,University of Toronto,18,18
+2020,Performancegenetics,-1,-1
+2020,University of Sheffield,205,117
+2020,Centre for Applied Autonomous Sensor Systems,-1,-1
+2020,University of Cape Town,390,136
+2020,"Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar",-1,-1
+2020,University of Florence,481,378
+2020,Sharif University of Technology,323,564
+2020,Harvard University,39,7
+2020,Uncharted Technologies,-1,-1
+2020,"University of Texas, Dallas",86,319
+2020,"National Institute of Information and Communications Technology (NICT), National Institute of Advanced Industrial Science and Technology",-1,-1
+2020,Nanjing University of Aeronautics and Astronautics,67,1024
+2020,LINE,-1,-1
+2020,George Washington University,205,198
+2020,Korea University,323,179
+2020,Rutgers University,34,168
+2020,"Centre for Integrative Neuroscience, AG Bethge",-1,-1
+2020,"The Institute of Statistical Mathematics, Japan",-1,-1
+2020,Mines ParisTech,481,1397
+2020,Lynxi,-1,-1
+2020,Hanyang University,233,393
+2020,Columbia University,15,16
+2020,Université Paris Diderot,481,1397
+2020,Googel,-1,-1
+2020,Princeton University,31,6
+2020,A*STAR,-1,-1
+2020,Kyoto University,154,65
+2020,SalesForce.com,-1,-1
+2020,Imperial College London,73,10
+2020,Beijing jiaotong univercity,481,952
+2020,Beijing Institute of Technology,481,661
+2020,Sivantos,-1,-1
+2020,"Preferred Networks, Inc.",-1,-1
+2020,INRIA,-1,-1
+2020,Université Nice Côte d'Azur,481,1397
+2020,Samsung,-1,-1
+2020,Facultad de Ingeniería,-1,-1
+2020,Technion,26,412
+2020,Oregon State University,77,373
+2020,Memorial University of Newfoundland,390,557
+2020,Huazhong University of Science and Technology,481,313
+2020,MILA,-1,-1
+2020,Oculus,-1,-1
+2020,IT University of Copenhagen,143,101
+2020,Honda Research Institute,-1,-1
+2020,University of Florida,128,174
+2020,University of Luebeck,266,1397
+2020,National Institute of Informatics,481,1397
+2020,"University of Massachusetts, Amherst",28,209
+2020,University of Zurich,143,90
+2020,Valeo.ai,-1,-1
+2020,Loughborough University,390,374
+2020,Bilkent University,323,548
+2020,Shandong University,154,658
+2020,"Interdisciplinary Centre for Security, Reliability and Trust (SnT)",-1,-1
+2020,Georgia Tech Research Corporation,-1,-1
+2020,Instagram,-1,-1
+2020,University of Rhode Island,-1,584
+2020,CNRS,-1,-1
+2020,University of New South Wales,481,1397
+2020,Queen Mary University London,233,110
+2020,MSKCC New York,-1,-1
+2020,Nokia Bell Labs,-1,-1
+2020,Tsinghua University,8,23
+2020,Hitachi America Ltd.,-1,-1
+2020,Australian National University,108,50
+2020,SoftServe Inc.,-1,-1
+2020,126,-1,-1
+2020,University Health Network,481,1397
+2020,NAVER,-1,-1
+2020,CONICET,-1,-1
+2020,"University of Minnesota, Minneapolis",59,79
+2020,SenseTime Group Limited,-1,-1
+2020,University of Copenhagen,100,101
+2020,HS Fulda,-1,-1
+2020,Institute for Basic Science,-1,-1
+2020,"Charles University, Prague",481,495
+2020,Unilever,-1,-1
+2020,University of Iowa,154,227
+2020,Politecnico di Milano,128,347
+2020,Alphabist,-1,-1
+2020,IQVIA,-1,-1
+2020,Criteo,-1,-1
+2020,Peking University,22,24
+2020,Microsoft Research,-1,-1
+2020,University of Trento,18,307
+2020,Brookhaven National Laboratory,-1,-1
+2020,Yonsei University,481,196
+2020,University of Exeter,390,146
+2020,Boeing Korea Engineering and Technology Center,-1,-1
+2020,163,-1,-1
+2020,Institute of Mathematics Polish Academy of Sciences,-1,-1
+2020,Nankai University,481,366
+2020,University of Southern California,31,62
+2020,Gmial,-1,-1
+2020,University of Notre Dame,118,157
+2020,Deshaw,-1,-1
+2020,Idiap Research Institute,-1,-1
+2020,International Computer Science Institute,-1,-1
+2020,Indian Institute of Technology Hyderabad,205,713
+2020,"University of Newcastle, Australia",390,311
+2020,University of Hildesheim,390,1397
+2020,"University of California, Riverside",59,249
+2020,University of Nairobi,481,871
+2020,"CNRS, Institut Mathematiques de Jussieu, Paris Diderot University",481,1397
+2020,SAFRAN,-1,-1
+2020,Cold Spring Harbor Laboratory,-1,-1
+2020,Waseda University,266,790
+2020,University of Bonn,128,106
+2020,Michigan Technological University,323,1397
+2020,University of Wisconsin - Madison,14,51
+2020,Purdue University,27,88
+2020,Indian Institute of Technology Bombay,118,480
+2020,"Geneva School of Business Administration, HES-SO University of Applied Sciences of Western Switzerland",481,1397
+2020,Pennsylvania State University,41,78
+2020,"University of California, Davis",79,55
+2020,École de technologie supérieure,481,1397
+2020,Indian Institute of Science,95,301
+2020,German Aerospace Center (DLR),-1,-1
+2020,University of Lorraine,481,624
+2020,Naspers,-1,-1
+2020,DGIST,-1,-1
+2020,University of Lincoln,481,617
+2020,Instituto Superior Técnico,481,1397
+2020,Robust.AI,-1,-1
+2020,Toyota Research Institute,-1,-1
+2020,FiveAI,-1,-1
+2020,Beijing University of Post and Telecommunication,481,1397
+2020,Stefan-jeschke,-1,-1
+2020,"Qualcomm Inc, QualComm",-1,-1
+2020,McGill University,86,42
+2020,University of Szeged,323,874
+2020,University of Technology Sydney,108,193
+2020,Lenovo,-1,-1
+2020,Lehigh University,266,633
+2020,"Data Lab, Volkswagen Group",-1,-1
+2020,Luleå University of Technology,481,1397
+2020,University of St. Gallen,481,435
+2020,Pompeu Fabra University,481,141
+2020,Flatiron Institute,-1,-1
+2020,Nagoya Institute of Technology,481,1157
+2020,CNRS/IMB,-1,-1
+2020,Makerere University,481,605
+2020,Swiss Federal Institute of Technology,10,13
+2020,University of Kentucky,233,490
+2020,Singapore Management University,92,1397
+2020,Zjuici,-1,-1
+2020,Northeastern University,16,906
+2020,Ecole Normale Superieure de Rennes,100,1397
+2020,Naver Labs Europe,-1,-1
+2020,Baylor College of Medicine,-1,-1
+2020,VMware Inc,-1,-1
+2020,Sana Labs,-1,-1
+2020,Amazon,-1,-1
+2020,"State University of New York, Buffalo",84,263
+2020,Indiana University,73,134
+2020,University of Osnabrück,323,1397
+2020,National Institute of Technology Warangal,-1,-1
+2020,National Chiao Tung University,143,564
+2020,Xiaomi,-1,-1
+2020,Laval university,481,272
+2020,Czech Technical University in Prague,323,956
+2020,Pingan (Shenzhen) Technology,-1,-1
+2020,LIP6,-1,-1
+2020,College of William and Mary,154,235
+2020,University of Bern,390,113
+2020,Pontificia Universidad Católica,481,570
+2020,University of Bremen,154,360
+2020,Universidad de Chile,323,848
+2020,Max Planck Institute MIS,-1,-1
+2020,University of Alberta,100,136
+2020,University of Auckland,266,177
+2020,Ryerson University,323,739
+2020,TU Dortmund University,233,354
+2020,Weizmann Institute,108,1397
+2020,"Institute of automation, Chinese academy of science, Chinese Academy of Sciences",59,1397
+2020,Alibaba Group,-1,-1
+2020,National University of Singapore,16,25
+2020,JD AI Research,-1,-1
+2020,Massachusetts Institute of Technology,2,5
+2020,Srilanka Institute of information Technology,481,1397
+2020,webank,-1,-1
+2020,Syracuse University,233,292
+2020,Max-Planck Institute,-1,-1
+2020,Aalto University,143,182
+2020,Target,-1,-1
+2020,University of Waterloo,28,235
+2020,Swiss Federal Institute of Technology Lausanne,481,38
+2020,Opinheiro,-1,-1
+2020,Element AI,-1,-1
+2020,Rensselaer Polytechnic Institute,172,438
+2020,Bogazici University,323,672
+2020,TU Dortmund,233,354
+2020,The University of Tokyo,56,36
+2020,University of Pennsylvania,19,11
+2020,Lund University,390,98
+2020,Oceandatalab,-1,-1
+2020,NASA,-1,-1
+2020,University of Goettingen,323,123
+2020,TU Berlin,108,149
+2020,Icloud,-1,-1
+2020,RWTH Aachen University,95,98
+2020,"Nara Institute of Science and Technology, Japan",481,1397
+2020,Colorado School of Mines,172,343
+2020,Prostatecentre,-1,-1
+2020,Rice University,84,105
+2020,Butterfly Network Inc,-1,-1
+2020,Korea Advanced Institute of Science and Technology,481,110
+2020,Perimeter Institute,-1,-1
+2020,AIST,-1,-1
+2020,Northwestern University,44,22
+2020,University of Salzburg,266,1397
+2020,ASAPP Inc,-1,-1
+2020,IDSIA,-1,-1
+2020,"BITS Pilani, BITS Pilani",480,1397
+2020,NCSOFT,-1,-1
+2020,Hyundai Mobis,-1,-1
+2020,Amanhussain,-1,-1
+2020,Iowa State University,172,399
+2020,"Indiana University, Bloomington",73,134
+2020,Foxmail,-1,-1
+2020,University of Grenoble-Alpes,481,329
+2020,Mila - Quebec AI Institute,-1,-1
+2020,"Volkswagen Group, ML Research Lab",-1,-1
+2020,Duke University,47,20
+2020,University of Moratuwa,-1,-1
+2020,Ecole polytechnique,481,93
+2020,"University of North Carolina, Chapel Hill",73,54
+2020,IMT Atlantique,481,393
+2020,Facebook,-1,-1
+2020,Universitat de Barcelona,481,213
+2020,FX Palo Alto Laboratory,-1,-1
+2020,SAP,323,258
+2020,NNAISENSE,-1,-1
+2020,Graz University of Technology,108,542
+2020,Vector Institute,-1,-1
+2020,University of Vienna,205,134
+2020,Tencent AI Lab,-1,-1
+2020,University of Virginia Main Campus,59,107
+2020,"University of Illinois, Chicago",56,254
+2020,Uppsala University,154,102
+2020,University of California at Merced,481,354
+2020,Accenture,-1,-1
+2020,Hao-li,-1,-1
+2020,Lineagelogistics,-1,-1
+2020,Science for Life Laboratory,-1,-1
+2020,Higher School of Economics,481,251
+2020,Capital One Bank,-1,-1
+2020,Chennai Mathematical Institute,-1,-1
+2020,Toronto University,18,18
+2020,Radboud University Nijmegen,390,128
+2020,Icentia,-1,-1
+2020,VinAI Research,-1,-1
+2020,Rochester Institute of Technology,128,843
+2020,University of Central Florida,77,609
+2020,"State University of New York, Stony Brook",41,304
+2020,Barcelona Supercomputing Center,-1,-1
+2020,Universität Osnabrück,481,1397
+2020,CEA,233,1027
+2020,Yandex,-1,-1
+2020,AXA,-1,-1
+2020,Institut Supérieur de l'Aéronautique et de l'Espace,481,1397
+2020,University of Surrey,205,260
+2020,TU Kaiserslautern,154,601
+2020,NVIDIA,-1,-1
+2020,University of Delaware,233,295
+2020,Malong Technologies,-1,-1
+2020,Brandeis University,323,244
+2020,mosaix.ai,-1,-1
+2020,University of Erlangen-Nuremberg,205,182
+2020,Insight Centre for Data Analytics,-1,-1
+2020,OMRON SINIC X,-1,-1
+2020,University of Rostock,390,-1
+2020,University of Applied Sciences Würzburg-Schweinfurt,481,1397
+2020,Toshiba Research Europe Ltd.,-1,-1
+2020,University of Stuttgart,95,292
+2020,Birmingham University,128,112
+2020,University of Guelph,266,558
+2020,Institut de Recherche en Informatique de Toulouse,-1,-1
+2020,National Tsing Hua University,172,365
+2020,University of Stirling,481,350
+2020,"University of Washington, Seattle",6,26
+2020,Prosus,-1,-1
+2020,University of Haifa,172,544
+2020,University of Cambridge,71,3
+2020,Kings,-1,-1
+2020,Heidelberg University,205,44
+2020,Pixel Scientia Labs,-1,-1
+2020,Bosch,-1,-1
+2020,Bloomberg LP,-1,-1
+2020,Universidad Sergio Arboleda,481,1397
+2020,University of Michigan,8,21
+2020,POSTECH,118,146
+2020,Télécom ParisTech,481,187
+2020,Wright State University,481,1397
+2020,Hong Kong University of Science and Technology,39,47
+2020,Pacific Northwest National Laboratory,-1,-1
+2020,Lunit Inc.,-1,-1
+2020,Harbin Institute of Technology,172,424
+2020,University of Calgary,172,210
+2020,The University of Nottingham,233,152
+2020,University of Victoria,172,449
+2020,Cardiff University,172,196
+2020,LRI - Université Paris Sud,481,227
+2020,Alan Turing Institute,-1,-1
+2020,Skolkovo Institute of Science and Technology,-1,-1
+2020,"University of Texas, Austin",22,38
+2020,Institut für Informatik,-1,-1
+2020,The University of Melbourne,118,32
+2020,Technical University of Denmark,481,182
+2020,Multimedia University,481,1285
+2020,Institute of Science and Technology Austria,481,1397
+2020,Keio University,390,692
+2020,Polytechnique Montreal,390,1397
+2020,"KTH Royal Institute of Technology, Stockholm, Sweden",128,222
+2020,University of Rochester,100,173
+2020,Aix Marseille University,481,329
+2020,"University of California, San Diego",11,31
+2020,"University of Maryland, College Park",12,91
+2020,Singapore University of Technology and Design,481,1397
+2020,Jilin University,481,952
+2020,CSIRO,-1,-1

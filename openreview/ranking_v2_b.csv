@@ -1,0 +1,437 @@
+year,institution,csranking,ranking
+2017,California Institute of Technology,129,2
+2017,Birkbeck,230,251
+2017,Medical University of Graz,462,452
+2017,Aalto University,161,228
+2017,Intel,-1,-1
+2017,University of Waterloo,25,174
+2017,Swiss Federal Institute of Technology Lausanne,25,30
+2017,University of Oxford,50,1
+2017,Ghent University,462,118
+2017,Huazhong University of Science and Technology,462,493
+2017,"University of California, Los Angeles",20,14
+2017,Element AI,-1,-1
+2017,KAIST,23,88
+2017,Brown University,61,51
+2017,"University of North Carolina, Charlotte",73,981
+2017,DigitalGenius Ltd.,-1,-1
+2017,University of Florida,129,135
+2017,Toyota Technological Institute at Chicago,-1,-1
+2017,South China University of Technology,462,613
+2017,The University of Tokyo,50,39
+2017,The Hong Kong University of Science and Technology,39,48
+2017,Université Nice Côte d'Azur,462,491
+2017,TUSIMPLE LLC,-1,-1
+2017,TU Berlin,105,82
+2017,Twitter,-1,-1
+2017,"University of Massachusetts, Amherst",25,166
+2017,KU Leuven,105,40
+2017,Beihang University,129,981
+2017,Moscow Institute of Physics and Technology,462,313
+2017,University of Arizona,161,156
+2017,Chinese Academy of Sciences,67,981
+2017,"University of California, Irvine",36,99
+2017,Rice University,80,87
+2017,University of British Columbia,34,36
+2017,UMass,25,166
+2017,Korea Advanced Institute of Science and Technology,462,88
+2017,Software Competence Center Hagenberg GmbH,-1,-1
+2017,Georgia Institute of Technology,12,33
+2017,University of Amsterdam,161,63
+2017,Queen Mary University London,275,113
+2017,Johannes Kepler University Linz,462,498
+2017,ENSTA ParisTech,-1,-1
+2017,"Indian Institute of Science Bangalore., Indian institute of science, Bangalore",461,247
+2017,Aylien,-1,-1
+2017,York University,161,316
+2017,UC Santa Barbara,39,48
+2017,chubu university,462,630
+2017,GREYC,-1,-1
+2017,Aifounded,-1,-1
+2017,Northwestern University,45,20
+2017,IDSIA,-1,-1
+2017,Siemens Corporate Research,-1,-1
+2017,University of California Berkeley,5,10
+2017,Tsinghua University,11,35
+2017,Autonomous University of Barcelona,462,164
+2017,University of Miami,351,183
+2017,Oracle,-1,-1
+2017,The Hong Kong Polytechnic University,194,192
+2017,University of Electronic Science and Technology of China,462,933
+2017,Ecole Normale Superieure,94,66
+2017,INRIA,-1,-1
+2017,Université de Sherbrooke,351,567
+2017,Renishaw,-1,-1
+2017,Hitachi,-1,-1
+2017,NAVER,-1,-1
+2017,Seoul National University,50,72
+2017,TEKLIA,-1,-1
+2017,University of Tampere,462,296
+2017,Worcester Polytechnic Institute,194,981
+2017,Johns Hopkins University,67,17
+2017,Harvey Mudd College,462,981
+2017,University of Pittsburgh,78,80
+2017,University of Copenhagen,105,120
+2017,German Research Center for AI,-1,-1
+2017,Austrian Research Institute for Artificial Intelligence,-1,-1
+2017,Duke University,42,18
+2017,Telefonica Research,-1,-1
+2017,"State University of New York, Binghamton",140,394
+2017,Ecole polytechnique,462,116
+2017,"University of North Carolina, Chapel Hill",73,56
+2017,Politecnico di Milano,140,981
+2017,ENPC,462,373
+2017,Criteo,-1,-1
+2017,University of Trento,15,236
+2017,Peking University,25,29
+2017,Facebook,-1,-1
+2017,University of Freiburg,113,95
+2017,Heriot-Watt University,275,429
+2017,OpenAI,-1,-1
+2017,Yonsei University,462,293
+2017,SAP,351,257
+2017,Boston College,275,212
+2017,163,-1,-1
+2017,The University of Massachusetts Lowell,194,166
+2017,Nankai University,462,905
+2017,University of Washington,6,25
+2017,University of Southern California,31,60
+2017,University of Iceland,462,243
+2017,Visual-tagging,-1,-1
+2017,IIT Kanpur,140,498
+2017,Walmartlabs,-1,-1
+2017,"University of Illinois, Urbana-Champaign",4,36
+2017,"California State University, Long Beach",462,981
+2017,University of California at Merced,462,981
+2017,Jagiellonian University,462,625
+2017,"University of Illinois, Urbana Champaign",4,36
+2017,Basistech,-1,-1
+2017,Federal University of Rio de Janeiro - UFRJ,461,693
+2017,Bar Ilan University,87,489
+2017,"Computer Vision Center, Universitat Autònoma de Barcelona",462,164
+2017,Higher School of Economics,462,456
+2017,Univeristé Paris-Dauphine,462,981
+2017,University of California - Irvine,36,99
+2017,babylon health,-1,-1
+2017,Hebrew University of Jerusalem,57,186
+2017,Baidu,-1,-1
+2017,Toronto University,15,22
+2017,Victoria University Wellington,275,362
+2017,Allen Institute for Artificial Intelligence,-1,-1
+2017,Snap Inc.,-1,-1
+2017,University of Wroclaw,230,981
+2017,Samsung,-1,-1
+2017,US Naval Research Laboratory,-1,-1
+2017,"Goldsmiths, University of London",461,300
+2017,New York University,25,32
+2017,Purdue University,25,70
+2017,Vanderbilt University,230,108
+2017,Pennsylvania State University,39,68
+2017,University of Chicago,45,10
+2017,CEA,194,765
+2017,University College London,45,15
+2017,The Chinese University of Hong Kong,61,43
+2017,Yandex,-1,-1
+2017,CERN,-1,-1
+2017,Handong Global University,462,981
+2017,German Aerospace Center (DLR),-1,-1
+2017,"University of Massachusetts, Boston",351,166
+2017,Lawrence Berkeley National Lab,-1,-1
+2017,TU Kaiserslautern,140,398
+2017,Stanford University,3,3
+2017,International Business Machines,-1,-1
+2017,NVIDIA,-1,-1
+2017,ENS Paris-Saclay,462,475
+2017,The University of Adelaide,113,143
+2017,University of Valencia,462,541
+2017,Vicarious Inc.,-1,-1
+2017,"Sentient Technologies, Inc.",-1,-1
+2017,National Institute of Technology Karnataka,462,981
+2017,Loyola Marymount University,462,981
+2017,University of Edinburgh,33,27
+2017,McGill University,80,42
+2017,Qihoo 360 Technology Co. Ltd,-1,-1
+2017,Insight Centre for Data Analytics,-1,-1
+2017,Lehigh University,230,441
+2017,"Data Lab, Volkswagen Group",-1,-1
+2017,Shanghai Jiao Tong University,61,214
+2017,University of Bari,194,110
+2017,Virginia Tech,80,286
+2017,University of Virginia,67,123
+2017,D-Wave Systems,-1,-1
+2017,"Disney Research, Disney",-1,-1
+2017,North Carolina State University,87,249
+2017,Technical University Munich,54,46
+2017,University of Guelph,275,398
+2017,TU Munich,54,30
+2017,NEC-Labs,-1,-1
+2017,Utrecht University,275,86
+2017,Free University of Berlin,351,75
+2017,University of Toronto,15,22
+2017,Swiss Federal Institute of Technology,9,9
+2017,Singapore Management University,87,981
+2017,"University of Washington, Seattle",6,25
+2017,Indian Institute of Technology Madras,140,472
+2017,University of Tehran,462,747
+2017,National Taiwan University,87,195
+2017,Universidad Nacional de Colombia,462,981
+2017,University of Cambridge,67,4
+2017,Huawei Technologies Ltd.,-1,-1
+2017,Google,-1,-1
+2017,Politecnico di Torino,462,384
+2017,Bosch,-1,433
+2017,"AGH University of Science and Technology, Krakow, Poland",462,708
+2017,Northeastern University,18,778
+2017,Linear accelerator Laboratory,-1,-1
+2017,University of Florence,462,439
+2017,University of Michigan,8,21
+2017,POSTECH,113,104
+2017,R V College of Engineering,462,981
+2017,Amazon,-1,-1
+2017,"State University of New York, Buffalo",94,263
+2017,Indiana University,75,151
+2017,Harvard University,36,6
+2017,Pacific Northwest National Laboratory,-1,-1
+2017,Carnegie Mellon University,1,23
+2017,Lunit Inc.,-1,-1
+2017,"University of Tennessee, Knoxville",161,286
+2017,Tampere University of Technology,462,552
+2017,University of Montreal,113,103
+2017,CNRS university Toulon,462,981
+2017,"University of Texas, Arlington",113,570
+2017,Cornell University,7,19
+2017,Laval university,462,265
+2017,Skolkovo Institute of Science and Technology,-1,-1
+2017,"University of Texas, Austin",20,50
+2017,LIP6,-1,-1
+2017,"Centre for Integrative Neuroscience, AG Bethge",-1,-1
+2017,College of William and Mary,161,280
+2017,A2iA SAS,-1,-1
+2017,University of Innsbruck,462,307
+2017,"University of Colorado, Colorado Springs",462,981
+2017,Carnegie-Mellon University,1,23
+2017,Mohakshah,-1,-1
+2017,Tel Aviv University,36,216
+2017,HHMI Janelia Research Campus,-1,-1
+2017,Mines ParisTech,462,265
+2017,University of Houston,161,365
+2017,Institute of Science and Technology Austria,94,981
+2017,Keio University,351,603
+2017,University of Alberta,94,106
+2017,Microsoft,-1,-1
+2017,LIMSI-CNRS / Université Paris-Sud,462,180
+2017,Columbia University,14,16
+2017,Polytechnique Montreal,351,981
+2017,"KTH Royal Institute of Technology, Stockholm, Sweden",129,160
+2017,Princeton University,32,7
+2017,Maluuba,-1,-1
+2017,Aix Marseille University,462,313
+2017,SalesForce.com,-1,-1
+2017,Weizmann Institute,105,981
+2017,Imperial College London,75,8
+2017,Beijing jiaotong univercity,462,981
+2017,Dartmouth College,140,82
+2017,"Institute of automation, Chinese academy of science, Chinese Academy of Sciences",67,981
+2017,"University of California, San Diego",9,41
+2017,National University of Singapore,15,24
+2017,"University of Maryland, College Park",12,67
+2017,"Preferred Networks, Inc.",-1,-1
+2017,Adobe Research,-1,-1
+2017,Massachusetts Institute of Technology,2,5
+2017,CSIRO,-1,-1
+2017,Technion,24,301
+2017,Oregon State University,75,316
+2018,California Institute of Technology,139,3
+2018,MSR Cambridge,-1,-1
+2018,Arm Research,-1,-1
+2018,University of Siegen,364,431
+2018,AI Perf Eng,-1,-1
+2018,"LeapMind, Inc.",-1,-1
+2018,"University of Geneva, Switzerland",468,130
+2018,University of South Florida,291,255
+2018,Uber,-1,-1
+2018,"Institue for Advanced Study, Princeton",-1,-1
+2018,University of Sussex,244,146
+2018,Beihang University,124,658
+2018,Gotenna,-1,-1
+2018,University of Tuebingen,153,94
+2018,York University,153,350
+2018,Georgia Institute of Technology,13,33
+2018,University of Amsterdam,181,59
+2018,UC Santa Barbara,37,53
+2018,Aifounded,-1,-1
+2018,Hellebore Capital Ltd.,-1,-1
+2018,"Washington University, St. Louis",104,50
+2018,Centrum voor Wiskunde en Informatica,-1,-1
+2018,Siemens Corporate Research,-1,-1
+2018,The Hong Kong Polytechnic University,181,182
+2018,University of Electronic Science and Technology of China,468,843
+2018,NEAR,-1,-1
+2018,Yale University,62,12
+2018,Seoul National University,46,74
+2018,Poznan University of Technology,468,1103
+2018,Dalhousie University,291,289
+2018,University of Pittsburgh,78,100
+2018,Bayer Ag,-1,-1
+2018,King's College London,181,36
+2018,ENPC,468,280
+2018,Simon Fraser University,57,253
+2018,Heriot-Watt University,291,363
+2018,Alexandria University,468,896
+2018,Boston College,291,309
+2018,University of Washington,6,25
+2018,University of Bretagne Sud,468,1103
+2018,IIT Kanpur,139,578
+2018,Xi'an Jiaotong University,468,565
+2018,"University of Illinois, Urbana-Champaign",3,37
+2018,SRI International,-1,-1
+2018,Jagiellonian University,468,695
+2018,babylon health,-1,-1
+2018,Hebrew University of Jerusalem,62,205
+2018,Calculationconsulting,-1,-1
+2018,"Instituto de Telecomunicações, Portugal",468,1103
+2018,Allen Institute for Artificial Intelligence,-1,-1
+2018,Taboola,-1,-1
+2018,New York University,26,27
+2018,University of Science and Technology of China,115,132
+2018,Petuum Inc.,-1,-1
+2018,University of Chicago,46,9
+2018,Infoblox,-1,-1
+2018,University College London,46,16
+2018,CERN,-1,-1
+2018,Carleton University,153,545
+2018,Indian Institute of Technology Kharagpur,291,506
+2018,International Business Machines,-1,-1
+2018,ENS Paris-Saclay,468,603
+2018,The University of Adelaide,124,134
+2018,Alfred Health,-1,-1
+2018,Upwork,-1,-1
+2018,University of Bristol,124,76
+2018,Shanghai Jiao Tong University,57,188
+2018,University of Basel,364,95
+2018,Volvo,-1,-1
+2018,University of Virginia,62,113
+2018,"Disney Research, Disney",-1,-1
+2018,Technical University Munich,55,41
+2018,Università della Svizzera Italiana,139,1103
+2018,Deakin University,468,334
+2018,University of York,210,137
+2018,Indian Institute of Technology Madras,153,625
+2018,University of the Witwatersrand,468,293
+2018,National Taiwan University,85,197
+2018,Huawei Technologies Ltd.,-1,-1
+2018,"IRISA, Université Bretagne Sud",468,1103
+2018,KAUST,124,1103
+2018,Santa Fe Institute,-1,-1
+2018,Carnegie Mellon University,1,24
+2018,University of Montreal,124,108
+2018,CERTH/ITI,-1,-1
+2018,CNRS university Toulon,468,1103
+2018,Cornell University,7,19
+2018,Tufts University,153,169
+2018,"University of Colorado, Colorado Springs",468,1103
+2018,Carnegie-Mellon University,1,24
+2018,Tel Aviv University,37,217
+2018,Enlitic,-1,-1
+2018,Microsoft,-1,-1
+2018,Williams College,468,1103
+2018,Fudan University,78,116
+2018,RIKEN,-1,-1
+2018,Dartmouth College,153,89
+2018,"University of Colorado, Boulder",42,100
+2018,Fujitsu Laboratories Ltd.,-1,-1
+2018,Adobe Research,-1,-1
+2018,Google,-1,-1
+2018,Cortexica,-1,-1
+2018,BUDAPEST UNIVERSITY OF TECHNOLOGY AND ECONOMICS,468,807
+2018,Intel,-1,-1
+2018,Ohio University,364,627
+2018,University of Oxford,51,1
+2018,"University of California, Los Angeles",20,15
+2018,DeepLab,-1,-1
+2018,Monash University,124,80
+2018,Brown University,62,50
+2018,The University of Hong Kong,90,40
+2018,University of Southampton,181,126
+2018,"University of North Carolina, Charlotte",74,1103
+2018,Horizon Robotics Inc.,-1,-1
+2018,Toyota Technological Institute at Chicago,-1,-1
+2018,The Hong Kong University of Science and Technology,40,44
+2018,Chegg,-1,-1
+2018,University of Sydney,90,61
+2018,University of Utah,52,200
+2018,Eindhoven University of Technology,181,141
+2018,Chinese Academy of Sciences,62,1103
+2018,General Motors,-1,-1
+2018,University of Arizona,181,161
+2018,Boston University,69,70
+2018,Universidade Federal de Minas Gerais,468,715
+2018,"University of California, Irvine",36,99
+2018,University of British Columbia,34,34
+2018,Aselsan.tr,-1,-1
+2018,Goethe University,210,293
+2018,Layer 6 AI,-1,-1
+2018,"Ecole Polytechnique, France",468,115
+2018,Johannes Kepler University Linz,468,538
+2018,Federal University of Pernambuco,468,958
+2018,Victorzhong,-1,-1
+2018,University of New Mexico,210,1103
+2018,University of California Berkeley,5,18
+2018,Autonomous University of Barcelona,468,146
+2018,"Blaise Pascal University, France",468,565
+2018,Ecole Normale Superieure,99,72
+2018,Chalmers University of Technology,153,240
+2018,Universitat Autonoma de Barcelona,468,146
+2018,Johns Hopkins University,71,13
+2018,Universitat Politècnica de Catalunya,468,1103
+2018,Harvey Mudd College,468,981
+2018,German Research Center for AI,-1,-1
+2018,Academia Sinica,-1,-1
+2018,Telefonica Research,-1,-1
+2018,University of Oldenburg,364,1103
+2018,University of Passau,291,243
+2018,Xidian University,468,917
+2018,University of Freiburg,115,82
+2018,OpenAI,-1,-1
+2018,University of South Australia,468,248
+2018,"Institute for Infocomm Research, A*STAR",-1,-1
+2018,Stevens Institute of Technology,153,512
+2018,University of Connecticut,153,324
+2018,Institut national de la recherche scientifique,-1,-1
+2018,"University of Colorado, Denver",468,286
+2018,"University of Illinois, Urbana Champaign",3,37
+2018,Magic Leap,-1,-1
+2018,"Computer Vision Center, Universitat Autònoma de Barcelona",468,146
+2018,University of California - Irvine,36,99
+2018,Baidu,-1,-1
+2018,ETAS GmbH,-1,-1
+2018,BenevolentAI,-1,-1
+2018,University Paris Descartes,468,1103
+2018,Texas A&M,42,160
+2018,Queens University,244,261
+2018,Snap Inc.,-1,-1
+2018,"Computer Science Lab  - Pierre and Marie Curie University, Paris, France",468,123
+2018,Fraunhofer IIS,-1,-1
+2018,Saarland University,90,1103
+2018,Janelia Farm Research Campus- HHMI,-1,-1
+2018,The Chinese University of Hong Kong,57,40
+2018,University of Lisbon,468,509
+2018,Karlsruhe Institute of Technology,153,133
+2018,University of Ottawa,291,233
+2018,Stanford University,4,3
+2018,New York Institute of Technology,468,1103
+2018,University of Edinburgh,33,27
+2018,Arizona State University,90,126
+2018,University of Illinois at Urbana-Champaign,3,37
+2018,Entlic,-1,-1
+2018,North Carolina State University,85,275
+2018,Borealis AI,-1,-1
+2018,Facebook AI Research,-1,-1
+2018,SUN YAT-SEN UNIVERSITY,468,352
+2018,Istituto Italiano di Tecnologia,468,1103
+2018,NEC-Labs,-1,-1
+2018,Taobao,-1,-1
+2018,University of Toronto,17,22
+2018,University of Sheffield,210,104
+2018,Clemson University,210,1103
+2018,Yahoo,-1,-1

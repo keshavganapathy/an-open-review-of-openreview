@@ -1,0 +1,15 @@
+[
+{
+  "web_pages": [
+    "http://www.marywood.edu"
+  ],
+  "name": "Marywood University",
+  "alpha_two_code": "PA",
+  "state-province": null,
+  "domains": [
+    "marywood.edu"
+  ],
+  "country": "United States"
+},
+  // for full dataset, visit https://github.com/Hipo/university-domains-list
+]
