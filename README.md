@@ -1,7 +1,7 @@
 # An-Open-Review-of-OpenReview
 An Open Review of OpenReview: A Critical Analysis of the Machine Learning Conference Review Process.
 
-This repository contains the scraping code for the paper:
+This repository contains the scraping code and data sets for the paper:
 > David Tran, Alex Valtchanov, Keshav Ganapathy, Raymond Feng, Eric Slud, Micah Goldblum, Tom Goldstein. [An Open Review of OpenReview: A Critical Analysis of the Machine Learning Conference Review Process](https://arxiv.org/abs/2010.05137). arXiv: 2010.05137v1, 2020.
 
 ## Citation
