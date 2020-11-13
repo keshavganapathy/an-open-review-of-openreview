@@ -5,7 +5,7 @@ This repository contains the PyTorch code for the paper
 > David Tran, Alex Valtchanov, Keshav Ganapathy, Raymond Feng, Eric Slud, Micah Goldblum, Tom Goldstein. [An Open Review of OpenReview: A Critical Analysis of the Machine Learning Conference Review Process](https://arxiv.org/abs/2010.05137). arXiv: 2010.05137v1, 2020.
 
 ## Citation
-If you find this code useful in your research, please cite:
+If you find any of this code useful, please cite:
 
 ```
 @misc{tran2020open,
